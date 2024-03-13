@@ -4,13 +4,13 @@ This project, developed as part of the Advanced Data Management course at TU Che
 
 ## Technology Stack
 
-PostgreSQL: Choice of a powerful relational database management system (RDBMS).
-PL/pgSQL: Procedural language enhancing PostgreSQL functionalities.
-HTML: Primary markup language for creating web pages.
-CSS: Style sheets for defining the presentation of HTML documents.
-Bulma: CSS framework for responsive web design.
-JavaScript: Core language for web development, enabling dynamic behavior.
-PHP: Server-side scripting language for generating dynamic web content.
+- PostgreSQL: Choice of a powerful relational database management system (RDBMS).
+- PL/pgSQL: Procedural language enhancing PostgreSQL functionalities.
+- HTML: Primary markup language for creating web pages.
+- CSS: Style sheets for defining the presentation of HTML documents.
+- Bulma: CSS framework for responsive web design.
+- JavaScript: Core language for web development, enabling dynamic behavior.
+- PHP: Server-side scripting language for generating dynamic web content.
 
 With this technology stack, I have crafted a system that seamlessly integrates database management with web development, providing a smooth experience for both customers and bakers.
 
